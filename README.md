@@ -8,4 +8,4 @@
             it will correct and only take it the Hex
 To avoid breaking the program with bad input.
 
-- TheAdmin68
+- TheAdmin
